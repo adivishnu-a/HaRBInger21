@@ -4,7 +4,6 @@ import time
 import sys
 import os
 
-
 #DOCUMENTATION:
 #This is a Python program that demonstrates the process that happens during Cellular Payment Service
 #Project on Behalf of Team GEEK SQUAD
