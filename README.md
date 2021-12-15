@@ -39,4 +39,4 @@ The biggest challenge in implementing this system is in bringing awareness to pe
 To bring this idea to life, Telecom operators and bank authorities should work with cooperation. The timeline for implementation mainly depends on people’s cooperation in going cashless
 
 **Download:**
-Note: It shows up as dangerous because the developer of the app (Adi Vishnu) is still a student and his works may not be recognized by big tech companies for now. But the app is free of all dependencies, doesn't even require an internet connection and completely safe. [Click here to Download](https://github.com/adivishnu-a/HaRBInger21/releases/tag/v0.1-beta)
+Note: It shows up as dangerous because the developer of the app (Adi Vishnu) is still a student and his works may not be recognized by big tech companies for now. But the app is free of all dependencies, doesn't even require an internet connection and completely safe. [Click here to Download](https://github.com/adivishnu-a/HaRBInger21/releases/tag/v0.0.1-beta)
