@@ -1,5 +1,4 @@
 # HaRBInger21
-RBI ProDevthon 2021 Demo Prototype
 Cellular Payment system is a software which allows us make digital payments without internet in any kind of mobile phone.
 
 It implements an **AI call-bot** which guides the users through the payment process and processes the transaction.
